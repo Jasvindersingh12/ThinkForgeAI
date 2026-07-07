@@ -1,0 +1,19 @@
+{
+  "objective": "Reduce food waste in restaurants through AI-driven forecasting and inventory optimization.",
+  "domain": "Restaurant Operations",
+  "stakeholders": [
+    "Restaurant Owners",
+    "Kitchen Staff",
+    "Customers",
+    "Suppliers"
+  ],
+  "constraints": [
+    "Limited budget",
+    "Changing demand",
+    "Staff training"
+  ],
+  "assumptions": [
+    "Historical sales data exists",
+    "Staff will use the system"
+  ]
+}

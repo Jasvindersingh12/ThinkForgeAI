@@ -1,0 +1,40 @@
+{
+  "discussion": [
+    {
+      "expert": "Operations Specialist",
+      "opinion": "Optimize kitchen workflow to reduce waste."
+    },
+    {
+      "expert": "AI Engineer",
+      "opinion": "Deploy demand forecasting using historical sales."
+    },
+    {
+      "expert": "Financial Analyst",
+      "opinion": "Focus on high ROI improvements first."
+    },
+    {
+      "expert": "Supply Chain Expert",
+      "opinion": "Reduce over-ordering with supplier integration."
+    },
+    {
+      "expert": "Sustainability Consultant",
+      "opinion": "Measure environmental impact continuously."
+    }
+  ],
+
+  "agreements":[
+    "AI forecasting",
+    "Inventory optimization",
+    "Waste monitoring dashboard",
+    "Staff training"
+  ],
+
+  "disagreements":[
+    "High initial investment",
+    "Time required for adoption"
+  ],
+
+  "final_consensus":"Develop an AI-powered demand forecasting and inventory optimization platform integrated with restaurant operations to minimize food waste.",
+
+  "confidence":0.94
+}

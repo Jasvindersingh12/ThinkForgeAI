@@ -1,0 +1,29 @@
+{
+  "experts": [
+    {
+      "name": "Operations Specialist",
+      "role": "Restaurant Operations",
+      "reason": "Optimizes workflows and kitchen efficiency."
+    },
+    {
+      "name": "AI Engineer",
+      "role": "Machine Learning",
+      "reason": "Designs forecasting and prediction models."
+    },
+    {
+      "name": "Supply Chain Expert",
+      "role": "Inventory Management",
+      "reason": "Improves procurement and stock control."
+    },
+    {
+      "name": "Financial Analyst",
+      "role": "Cost Optimization",
+      "reason": "Evaluates ROI and budget planning."
+    },
+    {
+      "name": "Sustainability Consultant",
+      "role": "Environmental Impact",
+      "reason": "Focuses on reducing waste and emissions."
+    }
+  ]
+}

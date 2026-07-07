@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+
+  thinkforge:
+
+    build: .
+
+    container_name: thinkforge_ai
+
+    ports:
+      - "8501:8501"
+
+    env_file:
+      - .env
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Outputs
+outputs/
+*.pdf
+*.pptx
+*.png
+*.dot
+*.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+history/

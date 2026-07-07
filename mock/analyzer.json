@@ -1,0 +1,20 @@
+{
+  "problem_summary": "Restaurants generate unnecessary food waste due to poor forecasting and inventory planning.",
+  "root_causes": [
+    "Demand uncertainty",
+    "Over-ordering",
+    "Lack of inventory visibility",
+    "Manual planning"
+  ],
+  "opportunities": [
+    "AI demand forecasting",
+    "Inventory optimization",
+    "Supplier coordination",
+    "Waste analytics dashboard"
+  ],
+  "success_metrics": [
+    "30% waste reduction",
+    "20% inventory savings",
+    "15% profit increase"
+  ]
+}
