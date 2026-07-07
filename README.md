@@ -90,33 +90,7 @@ The application includes a professional Streamlit workspace featuring
 
 ---
 
-# 📸 Application Preview
 
-## Dashboard
-
-> Add your dashboard screenshot here.
-
-```
-assets/dashboard.png
-```
-
-Example
-
-```markdown
-![Dashboard](assets/dashboard.png)
-```
-
----
-
-## Results Dashboard
-
-> Add your generated solution screenshot.
-
-```
-assets/results.png
-```
-
----
 
 # 🏗 Multi-Agent Workflow
 
